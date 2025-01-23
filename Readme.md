@@ -26,7 +26,7 @@
 <li>Crear una conexion a la base de datos en IntelliJ con la fuente de datos MySQL, usando usuario "root" y password "root"</li><br>
 
 
-<li>Ejecutar comando en IntelliJ: <em><strong>mvn clean install</strong></em></li><br>
+<li>Ejecutar comando en la consola de IntelliJ: <em><strong>mvn clean install</strong></em></li><br>
 
 <li>Ejecutar el metodo <em><strong>main</strong></em> en la clase <em><strong>Principal</strong></em> </li>
 </ol>
